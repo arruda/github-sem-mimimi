@@ -1,6 +1,9 @@
 Eclipse + Git: Github sem mimimi
 ================================
 
+Duração total do curso: 4 Horas e 50 Minutos.
+Ministrado por: Felipe Arruda Pontes
+
 ## Configuração (50 mins)
 
 * Configurando o Git
