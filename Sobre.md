@@ -8,6 +8,13 @@ Neste minicurso vou que é possível sim fazer rapidamente trabalhos versionados
 colaborar em projetos no Github, sem dor, sem linha de comando, e sem preconceitos (até usuários de Windows são bem vindos).
 
 
+Justificativa
+-------------
+
+Ter boas noções de controle de versionamento são conhecimentos mínimos exigidos na maioria das grandes empresas, isso por que está facilita a organização e o controle do trabalho, seja este individual ou em equipe. E como o Github é a maior rede social de projetos colaborativos, percebe-se que não há ambiente melhor para o aluno poder aprender sobre essas práticas.
+Para facilitar aos alunos que não estão acostumados a utilizar a linha de comandos ou um sistema operacional Unix, uma boa opção para interagir com os recursos Github é utilizar a IDE Eclipse, proporcionando uma interface gráfica amigável, compatível com diversos sistemas operacionais, e abrangente o suficiente para ser usada em diferentes linguagens de programação.
+
+
 Abordagem
 ---------
 
