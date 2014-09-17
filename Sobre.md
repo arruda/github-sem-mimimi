@@ -25,3 +25,5 @@ Para tratar o aspecto colaborativo do Git, iremos utilizar o Github.
 Neste ambiente os participantes do minicurso poderão experimentar as funcionalidades
 e aprender mais sobre as dificuldades de trabalhar em grupo e descobrir as vantagens que um sistema de versionamento
 descentralizado como o Git proporcionam.
+
+
