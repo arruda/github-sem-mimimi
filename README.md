@@ -1,7 +1,7 @@
 Eclipse + EGit: Github sem mimimi.
 ================================
 
-Muitas pessoas deixam de participar no Github sob o pretexto deste ser complicado. 
+Muitas pessoas deixam de participar no Github sob o pretexto deste ser complicado.
 Quando na verdade este é bem simples e incompreendido por alguns.
 
 Neste minicurso vou que é possível sim fazer rapidamente trabalhos versionados em Git, e
@@ -27,3 +27,7 @@ e aprender mais sobre as dificuldades de trabalhar em grupo e descobrir as vanta
 descentralizado como o Git proporcionam.
 
 
+Licença
+-------
+
+Esse projeto é distribuido sob a licença MIT, veja o arquivo LICENSE para mais detalhes.
