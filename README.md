@@ -4,7 +4,7 @@ Eclipse + EGit: Github sem mimimi.
 Muitas pessoas deixam de participar no Github sob o pretexto deste ser complicado.
 Quando na verdade este é bem simples e incompreendido por alguns.
 
-Neste minicurso vou que é possível sim fazer rapidamente trabalhos versionados em Git, e
+Neste minicurso vou mostrar que é possível sim fazer rapidamente trabalhos versionados em Git, e
 colaborar em projetos no Github, sem dor, sem linha de comando, e sem preconceitos (até usuários de Windows são bem vindos).
 
 
