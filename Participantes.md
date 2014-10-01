@@ -1,4 +1,4 @@
 Lista de Participantes
 ======================
 
-* Felipe Arruda Ponts
+* Felipe Arruda Pontes
