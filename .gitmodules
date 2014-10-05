@@ -1,0 +1,9 @@
+[submodule "docs/visao_geral/exemplo-timeline-A"]
+	path = docs/visao_geral/exemplo-timeline-A
+	url = https://github.com/arruda/exemplo-timeline-github-mimimi-A.git
+[submodule "docs/visao_geral/exemplo-timeline-B"]
+	path = docs/visao_geral/exemplo-timeline-B
+	url = https://github.com/arruda/exemplo-timeline-github-mimimi-B.git
+[submodule "docs/visao_geral/exemplo-timeline-C"]
+	path = docs/visao_geral/exemplo-timeline-C
+	url = https://github.com/arruda/exemplo-timeline-github-mimimi-C.git
