@@ -43,7 +43,7 @@ Assim cada um tem uma tarefa:
 * Felipe irá fazer o arquivo README e
 * Annanda fará o arquivo de Licença de software livre.
 
-Se formos ver a linha do tempo dos commits (alterações) de Felipe teremos algo do tipo:
+Se formos ver a linha do tempo dos commits (alterações) do Felipe e da Annanda teremos algo do tipo:
 
 #### Linha do tempo do Felipe:
 
