@@ -35,6 +35,8 @@ Além das necessidades presentes em trabalhos individuais, em trabalhos coletivo
 
 ## Teoria vs Prática
 
+### Teoria
+
 Na teoria é simples, temos aqui dois exemplos, onde Felipe e Annanda cada um está fazendo uma parte de um trabalho.
 
 Assim cada um tem uma tarefa:
@@ -43,8 +45,25 @@ Assim cada um tem uma tarefa:
 
 Se formos ver a linha do tempo dos commits (alterações) de Felipe teremos algo do tipo:
 
-### Linha do tempo do Felipe:
+#### Linha do tempo do Felipe:
 
-![Exemplo A](imgs/timeline_a)
+![Exemplo timeline A](imgs/timeline_a.png)
+
+#### Linha do tempo da Annanda:
+
+![Exemplo timeline B](imgs/timeline_b.png)
+
+### Prática
+
+Na prática as coisas são um pouco mais complexas, pois temos:
+
+* Pessoas fazendo alterações em paralelo;
+* Pessoas fazendo alterações em horários diferentes;
+
+Como fica esse histórico e a linha do tempo se não podemos perder as informações do que cada um fez e temos que juntar isso de alguma forma?!
+
+#### Linha do tempo do Merge de Felipe e Annanda:
+
+![Exemplo timeline C](imgs/timeline_c.png)
 
 ## Principais Etapas no Git
