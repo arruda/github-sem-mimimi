@@ -67,3 +67,79 @@ Como fica esse histórico e a linha do tempo se não podemos perder as informaç
 ![Exemplo timeline C](imgs/timeline_c.png)
 
 ## Principais Etapas no Git
+
+### Git Clone
+
+#### Comando:
+
+    $ git clone git@caminho/para/repositorio.git
+
+#### Descrição:
+
+Cria uma cópia local do repositório do remoto de origem.
+
+### Git Status
+
+#### Comando:
+
+    $ git status
+
+#### Descrição:
+
+Mostra o estado atual do repositório local.
+
+
+### Git Add
+
+#### Comando:
+
+    $ git add .
+
+#### Descrição:
+
+Marca alterações a serem versionadas.
+
+
+### Git Commit
+
+#### Comando:
+
+    $ git commit -m 'mensagem de commit'
+
+#### Descrição:
+
+Versiona as alterações marcardas pelo git add.
+
+
+### Git Push
+
+#### Comando:
+
+    $ git push origin master
+
+#### Descrição:
+
+Envia os commits locais para o reposítorio remóto.
+
+
+### Git Pull
+
+#### Comando:
+
+    $ git pull origin master
+
+#### Descrição:
+
+Recupera os commits do reposítorio remoto para o reposítorio local.
+
+
+### Git Merge
+
+#### Comando:
+
+    $ git merge branch
+
+#### Descrição:
+
+Junta os commits de um branch no atual.
+
