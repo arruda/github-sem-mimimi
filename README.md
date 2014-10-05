@@ -29,7 +29,7 @@ descentralizado como o Git proporcionam.
 Apresentação
 ------------
 
-Para ver a apresentação basta começar por este arquivo: [Indice](docs/README.md)
+Para ver a apresentação basta começar por este arquivo: [Índice](docs/README.md)
 
 Licença
 -------
