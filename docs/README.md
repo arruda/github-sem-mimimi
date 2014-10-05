@@ -2,5 +2,5 @@
 ======
 
 * [Visão Geral](visao_geral/README.md)
-* [Configuralção](configuracao/README.md)
+* [Configuração](configuracao/README.md)
 * Prática
