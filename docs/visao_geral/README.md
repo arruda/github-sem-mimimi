@@ -143,3 +143,5 @@ Recupera os commits do reposítorio remoto para o reposítorio local.
 
 Junta os commits de um branch no atual.
 
+## Próximo
+Próxima parte: [Configuração](../configuracao/README.md)
