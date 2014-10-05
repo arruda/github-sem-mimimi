@@ -45,6 +45,7 @@ Agora devemos informar o email do usuario, novamente clique no botão **[add Ent
 
 ![Add User.name](imgs/5.png)
 
+Para finalizar e salvar as configurações do GIT clique em **[OK]**.
 
 ## Próximo Tópico
 Próximo Tópico: [Prática](../pratica/README.md)
