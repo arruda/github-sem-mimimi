@@ -129,7 +129,12 @@ Portanto para adcionar um arquivo a um commit (o equivalente ao comando **Git Ad
 
 Uma vez feito isso para todos os arquivos que queiramos commitar, devemos escrever uma mensagem de commit que em poucas palavras descreva a alteração sendo realizada. Escrevemos essa mensagem no campo **Commit Message**, e uma vez concluído clicamos em **[Commit]**:
 
-![Git add gitignore](imgs/16.png)
+![Commit do gitignore](imgs/16.png)
+
+Se quisermos ver o histórico dos commits, para ter uma noção da timeline de nossas alterações, podemos clicar com o botão direito no repositorio e selecionar a opção *Show in->History**.
+
+![Opção de mostrar History](imgs/17.png)
+
 ## Push
 ## Pull
 ## Contribuindo
