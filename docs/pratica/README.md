@@ -92,7 +92,44 @@ Agora tornamos nosso repositório em um projeto do Eclipse:
 
 ![Após importar projeto](imgs/11.png)
 
+### Fazendo o Git Ignorar Arquivos Desnecessários
+
+Se formos para a aba de **Git Staging** e selecionarmos o projeto recém criado, veremos que ele mostra um arquivo **.project** numa área denominada **Unstaged Changes**.
+
+![Projeto no Git Staging](imgs/12.png)
+
+Esse arquivo foi criado pelo Eclipse, ele que tem os dados, que o Eclipse entende, sobre o projeto que criamos a pouco. 
+
+Neste caso, ele aparece na área **Unstaged Changes** pois é um novo arquivo, e o Git está nos informando que ele é uma nova alteração que ainda não foi marcada (**Git add**) para ser versionada.
+
+Entretanto, não iremos versionar esse arquivo, isso por que é um pouco sem sentido commitar esse arquivo, já que não necessáriamente iremos usar o Eclipse sempre neste projeto. Ou então se um colega que decida colaborar com o trabalho não usar a IDE Eclipse não faz sentido este arquivo que é expecifico para o local de trabalho de cada um ser versionado. Em algumas situações inclusive isso pode gerar problemas, já que se em uma máquina o arquivo **.project** tem alguma informação sobre o caminho para aquele projeto, podemos ter outra maquina que não se utilize o mesmo caminho. Isso faria com que o **.project** de uma maquina atrapalhasse o de outra.
+
+Portanto devemos dizer para o Git ignorar esse arquivo.
+
+Para fazer com que o Git pare de verificar se um determinado arquivo foi modificado clicamos neste com o botão direito, e selecionamos a opção **Ignore**.
+
+![Git ignore project](imgs/13.png)
+
+Feito isso veremos que o arquivo .project sumirá da janela **Unstaged Changes**, e agora temos outro arquivo aparecendo: **.gitignore**.
+
+![Gitignore no lugar do Project](imgs/14.png)
+
+Esse é o arquivo que contém as informações que dizem ao Git para ignorar determinados arquivos que escolhermos.
+Para que em qualquer lugar os mesmos arquivos sejam ignorados, devemos versionar esse arquivo e portanto coloca-lo em um commit.
+
+
 ## Commits Locais
+
+A primeira coisa que devemos fazer para versionar (commitar) uma alteração em nosso repositório local é marcar quais arquivos, dentre os que sofreram alguma alteração, devem ser commitados.
+
+Portanto para adcionar um arquivo a um commit (o equivalente ao comando **Git Add**), devemos clicar e arrastar o arquivo da janela de **Unstaged Changes** para a janela de **Stages Changes**:
+
+
+![Git add gitignore](imgs/15.png)
+
+Uma vez feito isso para todos os arquivos que queiramos commitar, devemos escrever uma mensagem de commit que em poucas palavras descreva a alteração sendo realizada. Escrevemos essa mensagem no campo **Commit Message**, e uma vez concluído clicamos em **[Commit]**:
+
+![Git add gitignore](imgs/16.png)
 ## Push
 ## Pull
 ## Contribuindo
