@@ -3,4 +3,5 @@
 
 * [Visão Geral](visao_geral/README.md)
 * [Configuração](configuracao/README.md)
-* Prática
+* [Prática](pratica/README.md)
+* 
