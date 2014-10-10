@@ -131,12 +131,33 @@ Uma vez feito isso para todos os arquivos que queiramos commitar, devemos escrev
 
 ![Commit do gitignore](imgs/16.png)
 
-Se quisermos ver o histórico dos commits, para ter uma noção da timeline de nossas alterações, podemos clicar com o botão direito no repositorio e selecionar a opção *Show in->History**.
+Se quisermos ver o histórico dos commits, para ter uma noção da timeline de nossas alterações, podemos clicar com o botão direito no repositorio e selecionar a opção **Show in->History**.
 
 ![Opção de mostrar History](imgs/17.png)
 
+Isso mostrará a timeline do nosso repositório, isso é, nossa arvore de commits, onde os commits mais recentes ficam no topo.
+
+![Janela de History](imgs/18.png)
+
 ## Push
+
+Agora que fizemos o commit localmente precisamos enviar essa alteração para nosso repositório remoto (aquele do Github) para atualiza-lo com nossas novas alterações.
+
+Para isso vamos fazer um push. Assim clicamos com o botão direito no repositório em questão e selecionamos a opção: **push to upstream**:
+
+![Opção de Push](imgs/19.png)
+
+Neste ponto provavelmente será pedido o usuario e a senha do Github, uma vez informado é exibido uma janela informando o que foi enviado:
+
+![Após Push](imgs/20.png)
+
 ## Pull
+
+Antes de começarmos a ver a parte do **Pull** vamos navegar para a janela do projeto no Github, mais especificamente vamos para o arquivo **README.md** de nosso repositório, e clicamos no botão no formato de um **lápis**, para habilitar a edição deste arquivo no próprio browser:
+
+![Editar Arquivo no Github](imgs/21.png)
+
+
 ## Contribuindo
 
 
