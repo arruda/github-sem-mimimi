@@ -98,7 +98,7 @@ Se formos para a aba de **Git Staging** e selecionarmos o projeto recém criado,
 
 ![Projeto no Git Staging](imgs/12.png)
 
-Esse arquivo foi criado pelo Eclipse, ele que tem os dados, que o Eclipse entende, sobre o projeto que criamos a pouco. 
+Esse arquivo foi criado pelo Eclipse, ele que tem os dados, que o Eclipse entende, sobre o projeto que criamos a pouco.
 
 Neste caso, ele aparece na área **Unstaged Changes** pois é um novo arquivo, e o Git está nos informando que ele é uma nova alteração que ainda não foi marcada (**Git add**) para ser versionada.
 
@@ -157,7 +157,58 @@ Antes de começarmos a ver a parte do **Pull** vamos navegar para a janela do pr
 
 ![Editar Arquivo no Github](imgs/21.png)
 
+Uma vez nesta tela alteramos o arquivo README.md com alguma coisa, ex:
+
+![Editando Arquivo no Github](imgs/22.png)
+
+Para commitar essas alterações pelo Github devemos escrever a mensagem de commit, e clicar em **[Commit Changes]**:
+
+![Commitando Arquivo no Github](imgs/23.png)
+
+Com isso nosso repositório local está agora desatualizado em relação ao remoto (Github).
+
+Portanto devemos fazer um **pull** das novas alterações para o nosso repositório local.
+
+Para tal, clicamos com o botão direito no nosso repositório e em seguida selecionamos a opção **pull**:
+
+![Selecionando opção de pull](imgs/24.png)
+
+Isso abrirá uma tela informando quais as alterações foram pegas (**pull**) do Github:
+
+![Resultado de pull](imgs/25.png)
+
+## Comparar Alterações (Diff)
+Vamos agora fazer mais uma alteração local no **README.md**, trocando outros detalhes, ex:
+
+![Outras alterações locais](imgs/26.png)
+
+Agora, na aba do **Git staging**, damos dois cliques no arquivo **README.md** (dentro da janela de **unstaged changes**).
+
+Isso abrirá uma janela que mostra as alterações que foram feitas (**esquerda**) em comparação com o que tinha antes (**direita**) localmente:
+
+![Comparação local](imgs/27.png)
+
+Agora que conferimos que a alteração é aquilo mesmo que queriamos, podemos commitar essa alteração:
+
+![Commitando outra alteração](imgs/28.png)
+
 
 ## Contribuindo
 
+Existem diversas maneiras de se contribuir em um repositório no Github, porém, por conta da carga horária do curso, veremos apenas a mais simples de todas.
+
+Neste caso iremos incluir diretamente um outro usuário como **Colaborador**, assim este terá direito de enviar diretamente seus commits (**push**) para seu repositório.
+
+Para isso, vá no seu repositório do Github, e selecione a opção **Settings**, que fica no menu da direita:
+![Opção Settings do Repo](imgs/colab1.png)
+
+Em seguida selecione a opção **Collaborators** no menu da esquerda:
+![Settings do Repo Github](imgs/colab2.png)
+
+Coloque o username do colaborador e clique em **[Add Collaborator]**:
+![Incluindo Colaborador](imgs/colab3.png)
+
+Por fim, você terá a lista dos seus colaboradores neste repositório:
+
+![Lista de Colaboradores](imgs/colab4.png)
 
