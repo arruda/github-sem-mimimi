@@ -31,6 +31,12 @@ Neste ambiente os participantes do minicurso poderão experimentar as funcionali
 e aprender mais sobre as dificuldades de trabalhar em grupo e descobrir as vantagens que um sistema de versionamento
 descentralizado como o Git proporcionam.
 
+Apresentação
+------------
+
+Para ver a apresentação basta começar por este arquivo: [Índice](docs/README.md)
+
+
 
 Licença
 -------
