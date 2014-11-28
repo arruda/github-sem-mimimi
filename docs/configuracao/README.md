@@ -16,7 +16,7 @@ Devemos agora configurar algumas coisas no git (através do plugin **EGit** no *
 
 ### Preferências do Eclipse
 
-Para acessar essas configuraçãos, clique no menu **Window->Preferences**:
+Para acessar essas configurações, clique no menu **Window->Preferences**:
 
 ![Acessando  Menu de Preferêcias](imgs/1.png)
 
