@@ -56,7 +56,7 @@ No campo **user** coloque seu usuário do Github, e no campo **password** coloqu
 
 ![Dados para clone de repositorio no egit](imgs/4.png)
 
-Na próxima janela temos a opção de quais branches iremos trazer baixar neste clone, como temos apenas nosso branch padrão (o branch **master**) não precisamos mudar nada nesta tela.
+Na próxima janela temos a opção de quais branches iremos trazer/baixar neste clone, como temos apenas nosso branch padrão (o branch **master**) não precisamos mudar nada nesta tela.
 
 ![Seleção de Branches para clone de repositorio no egit](imgs/5.png)
 

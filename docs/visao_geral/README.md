@@ -108,7 +108,7 @@ Marca alterações a serem versionadas.
 
 #### Descrição:
 
-Versiona as alterações marcardas pelo git add.
+Versiona as alterações marcadas pelo git add.
 
 
 ### Git Push
@@ -119,7 +119,7 @@ Versiona as alterações marcardas pelo git add.
 
 #### Descrição:
 
-Envia os commits locais para o reposítorio remóto.
+Envia os commits locais para o reposítorio remoto.
 
 
 ### Git Pull
